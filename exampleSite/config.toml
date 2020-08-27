@@ -1,4 +1,4 @@
-baseURL = "https://beyondrawdata.rbind.io"
+baseURL = "htt"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
